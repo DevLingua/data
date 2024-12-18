@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Horizon Event Center",
+    "location": "Los Angeles, CA",
+    "capacity": 300,
+    "price_per_day": 1500,
+    "amenities": ["Stage", "Sound System", "Catering Service", "Projector"],
+    "suitable_for": ["Birthdays", "Weddings", "Corporate Events"],
+    "availability": true
+  },
+  {
+    "id": 2,
+    "name": "Silverline Banquet Hall",
+    "location": "Dallas, TX",
+    "capacity": 200,
+    "price_per_day": 1200,
+    "amenities": ["Air Conditioning", "Tables and Chairs", "Free Parking", "Lighting Setup"],
+    "suitable_for": ["Parties", "Burial Ceremonies", "Reunions"],
+    "availability": false
+  },
+  {
+    "id": 3,
+    "name": "Emerald Garden Hall",
+    "location": "Orlando, FL",
+    "capacity": 500,
+    "price_per_day": 2000,
+    "amenities": ["Outdoor Space", "Catering Options", "Decor Support", "Dance Floor"],
+    "suitable_for": ["Birthdays", "Anniversaries", "Weddings", "Corporate Events"],
+    "availability": true
+  },
+  {
+    "id": 4,
+    "name": "Luxe Party Lounge",
+    "location": "Chicago, IL",
+    "capacity": 150,
+    "price_per_day": 1000,
+    "amenities": ["Soundproofing", "Bar Setup", "Wi-Fi", "Custom Decor"],
+    "suitable_for": ["Parties", "Bachelor/Bachelorette Nights", "Small Gatherings"],
+    "availability": true
+  },
+  {
+    "id": 5,
+    "name": "Royal Elegance Venue",
+    "location": "Atlanta, GA",
+    "capacity": 400,
+    "price_per_day": 1800,
+    "amenities": ["VIP Lounge", "Parking Space", "LED Screens", "Security"],
+    "suitable_for": ["Burial Ceremonies", "Weddings", "Corporate Galas"],
+    "availability": false
+  }
+]
